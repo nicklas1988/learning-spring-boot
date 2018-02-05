@@ -1,4 +1,4 @@
-package com.nordda.learningspringboot;
+package com.learn.learningspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
